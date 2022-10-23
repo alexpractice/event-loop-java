@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+group 'com.github.alexpractice'
+version '1.0.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
